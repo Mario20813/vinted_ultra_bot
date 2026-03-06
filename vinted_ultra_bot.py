@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 from rapidfuzz import fuzz
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1478854784789385432/b_UgliM17TS7V0kYRTlri1DspsmpPeYfHX2UgldxEQppayoRZvNLOTRnJDE537tM9rhQ"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1479562078976213154/zk8HT1jgoodHyOOSmSMJxyXcY4uJzkwwuHcdiTQtg3qb8CeOnAYjs0idVLVCND_PwmgZ"
 
 max_price = 600
 
