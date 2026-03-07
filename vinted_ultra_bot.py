@@ -5,7 +5,7 @@ from rapidfuzz import fuzz
 
 WEBHOOK_URL = "https://discord.com/api/webhooks/1479562078976213154/zk8HT1jgoodHyOOSmSMJxyXcY4uJzkwwuHcdiTQtg3qb8CeOnAYjs0idVLVCND_PwmgZ"
 
-max_price = 600
+max_price = 5000
 
 keywords = [
 "iphone","airpods","apple watch","macbook","ipad","ipod",
